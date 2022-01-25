@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this the cyprestest",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "manish khadka",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.3.1",
+    "cypress-xpath": "^1.6.2"
+  }
+}
